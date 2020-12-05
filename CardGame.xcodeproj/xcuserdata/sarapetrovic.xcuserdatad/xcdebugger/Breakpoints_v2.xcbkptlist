@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2965962-276A-47D0-A9F1-E71AB1F024EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - c08d6d092649ac60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.getter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - c301df14e0296094"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.setter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - b9670a7960c77336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.modify : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - 9a05f0a2eb2b8794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - 2a4a3cbc93f9ea71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CardGame.ViewController"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "761">
+               </Location>
+               <Location
+                  uuid = "1DB46DB4-79DF-4535-9F62-FCCABD320C05 - e9559ff9147aa20f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CardGame.ViewController&gt;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "702">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - c08d6d092649ac60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.getter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - c301df14e0296094"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.setter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - b9670a7960c77336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.modify : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - 9a05f0a2eb2b8794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.playerScoreCount.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - 2a4a3cbc93f9ea71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CardGame.ViewController"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "761">
+               </Location>
+               <Location
+                  uuid = "47DBECE5-0480-4E66-B556-8EC5DB67B6A0 - e9559ff9147aa20f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CardGame.ViewController&gt;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarapetrovic/Documents/Swift/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "702">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
